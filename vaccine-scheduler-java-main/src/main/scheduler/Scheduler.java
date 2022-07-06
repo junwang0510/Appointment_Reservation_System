@@ -29,17 +29,17 @@ public class Scheduler {
         System.out.println();
         System.out.println("Welcome to the COVID-19 Vaccine Reservation Scheduling Application!");
         System.out.println("*** Please enter one of the following commands ***");
-        System.out.println("> create_patient <username> <password>");  //TODO: implement create_patient (Part 1)
+        System.out.println("> create_patient <username> <password>");
         System.out.println("> create_caregiver <username> <password>");
-        System.out.println("> login_patient <username> <password>");  // TODO: implement login_patient (Part 1)
+        System.out.println("> login_patient <username> <password>");
         System.out.println("> login_caregiver <username> <password>");
-        System.out.println("> search_caregiver_schedule <date>");  // TODO: implement search_caregiver_schedule (Part 2)
-        System.out.println("> reserve <date> <vaccine>");  // TODO: implement reserve (Part 2)
+        System.out.println("> search_caregiver_schedule <date>");
+        System.out.println("> reserve <date> <vaccine>");
         System.out.println("> upload_availability <date>");
-        System.out.println("> cancel <appointment_id>");  // TODO: implement cancel (extra credit)
+        System.out.println("> cancel <appointment_id>");
         System.out.println("> add_doses <vaccine> <number>");
-        System.out.println("> show_appointments");  // TODO: implement show_appointments (Part 2)
-        System.out.println("> logout");  // TODO: implement logout (Part 2)
+        System.out.println("> show_appointments");
+        System.out.println("> logout");
         System.out.println("> quit");
         System.out.println();
 
