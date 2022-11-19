@@ -4,4 +4,4 @@
 
 • Applied SQL queries to assist users in selecting a suitable appointment by a series of constraints, such as caregiver, vaccine, and date.
 
-Tools/Languages: SQL, Java, JDBC, Microsoft Azure
+`Tools/Languages: SQL, Java, JDBC, Microsoft Azure`
